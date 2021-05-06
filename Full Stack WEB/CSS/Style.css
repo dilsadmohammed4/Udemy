@@ -1,0 +1,26 @@
+body {
+    background-color: #e4fbff;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 4px;
+    width: 5%;
+
+}
+
+img {
+    height: 142px;
+    width: 142px;
+}
+h1{
+    color: #7eca9c;
+}
+h2{
+    color: #7eca9c;
+}
+a:hover{
+    color: royalblue;
+}
